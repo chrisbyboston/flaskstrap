@@ -18,5 +18,5 @@ quickly as possible.
 To Do
 -----
 1. ~~Get basic layout in place working with bootstrap~~
-2. Plug in Knockout JS
+2. ~~Plug in Knockout JS~~
 3. Build a puppet file for Flask, Postgres, SQLAlchemy (Anything that has to be installed)
