@@ -1,4 +1,16 @@
 flaskstrap
 ==========
 
-A Flask, Bootstrap, Knockout, Postgres Template for Making Web Apps.
+A Flask Template for Making Web Apps.
+
+Introduction
+------------
+This is really just a template for my own use that has all the things I like to use already setup.
+The current plan is to make the template a Flask app that uses:
+* Bootstrap
+* Knockout JS
+* SQLAlchemy
+* Postgres
+
+I'll also likely attempt to write up some basic command line wizards to create a skeleton app as
+quickly as possible.
